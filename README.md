@@ -1,4 +1,4 @@
-# The Eternal Market
+# The Nortrem Way Market
 decentralized & anonymous online marketplace
 
 [About](#about) - [Installation](#installing) - [Buying](#buying) - [Selling](#selling) - [Disclaimers](#disclaimers)
