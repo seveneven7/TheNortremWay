@@ -6,7 +6,7 @@ decentralized & anonymous online marketplace
 
 ## About
 
-The Eternal Market (TEM) is a distributed application (DAPP) that allows anyone with ethereum blockchain access to buy or sell goods and services anonymously. TEM requires no login, only a valid Ethereum address. As a distributed application TEM is not stored on any server, and cannot be shut down. Listing prices are USD stabalized using the MakerDAO price oracle. TEM allows users located in oppressive regimes to trade banned goods and services freely. A teacher in an Afghani girl's school could use TEM to purchase books to through a mail-order service, or a company in the UK could sell VPN software to citizens of China to circumvent their censorship. 
+The Nortrem Way Market (NWM) is a distributed application (DAPP) that allows anyone with ethereum blockchain access to buy or sell goods and services anonymously. TEM requires no login, only a valid Ethereum address. As a distributed application NWM is not stored on any server, and cannot be shut down. Listing prices are USD stabalized using the MakerDAO price oracle. NWM allows users located in oppressive regimes to trade banned goods and services freely. A teacher in an Afghani girl's school could use TEM to purchase books to through a mail-order service, or a company in the UK could sell VPN software to citizens of China to circumvent their censorship. 
 
 Once a listing is posted, there are only two ways it can be removed:
 * If the ratio of failed/successful sales is too high
